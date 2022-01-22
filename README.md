@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FortniBloxYT1 i can speak english and spanish
+- 👀 I’m interested in Cyber-Attacks
+- 🌱 I’m currently learning Cyber-Attack
+- 📫 How to reach me FortniBloxYT#8525 on discord.
