@@ -1,4 +1,15 @@
-- 👋 Hi, I’m @FortniBloxYT1 i can speak english and spanish
-- 👀 I’m interested in Cyber-Attacks
-- 🌱 I’m currently learning Cyber-Attack
-- 📫 How to reach me FortniBloxYT#8525 on discord.
+# YonNet
+
+
+
+
+# Installation
+```sh
+git clone https://github.com/Yonee3/YonNet
+sudo apt-get install python3
+sudo apt-get install python3-pip
+cd YonNet
+sudo python3 installer.py
+ulimit -n 999999
+python3 yonnet
+```
